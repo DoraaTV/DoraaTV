@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=romanethomas)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DoraaTV&show_icons=true&theme=radical) [![trophy](https://github-profile-trophy.vercel.app/?username=DoraaTV)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
